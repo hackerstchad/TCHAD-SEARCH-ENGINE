@@ -1,4 +1,6 @@
 # TCHAD SEARCH ENGINE v10.0
+<img width="1024" height="1024" alt="WhatsApp Image 2026-07-31 at 21 52 52" src="https://github.com/user-attachments/assets/e212e1e2-853c-4bfd-a8f1-1143b69319ce" />
+
 
 **Développé par HiddenWorld Communauté Tchadienne**
 
